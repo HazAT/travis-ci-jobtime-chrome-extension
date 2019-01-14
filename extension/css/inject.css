@@ -1,0 +1,16 @@
+.job-duration {
+  position: relative;
+}
+.job-duration time {
+  position: absolute;
+  display: block;
+  left: 22px;
+  top: -6px;
+}
+.job-duration span {
+  font-size: 12px;
+  position: absolute;
+  display: block;
+  left: 22px;
+  top: -6px;
+}
